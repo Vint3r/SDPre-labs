@@ -15,5 +15,6 @@ public class Objective3Lab5 {
     sum = firstNum + secondNum;
 
     System.out.println("The sum of " + firstNum + " and " + secondNum + " is: " + sum);
+    input.close();
   }
 }
