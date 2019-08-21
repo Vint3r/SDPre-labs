@@ -9,5 +9,7 @@ public class Objective3Lab1 {
     userInput = input.next();
 
     System.out.println("Your word is: " + userInput);
+
+    input.close();
   }
 }
